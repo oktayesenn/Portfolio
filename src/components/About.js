@@ -23,10 +23,8 @@ const About = () => {
               for clients ranging from individuals and small-businesses all the
               way to large enterprise corporations. What would you do if you had
               a software expert available at your fingertips?</p>  
-              <p>“If you don’t believe it or don’t get it, I don’t have the time to try to convince you, sorry.”
-                - Satoshi Nakamoto, the creator of #Bitcoin</p>
                 <p>Sky is limit.</p>
-                <p>Interesting Web3.0// NFT // Crypto</p>
+                <p>Interesting Web3.0// NFT // Blockchain </p>
             </div>
           </div>
       </div>

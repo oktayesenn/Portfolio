@@ -3,7 +3,8 @@ import {
   FaBars,
   FaTimes,
   FaGithub,
-  FaLinkedin
+  FaLinkedin,
+  FaTwitter
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
@@ -120,12 +121,12 @@ const Navbar = () => {
               Email <HiOutlineMail size={30} />
             </a>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://drive.google.com/file/d/1PEDMsifEaP7rXSvntbIJbDwtjWW8lCLv/view?ths=true' target={"_blank"}
+              href='https://twitter.com/oktayesenn' target={"_blank"}
             >
-              Resume <BsFillPersonLinesFill size={30} />
+              Twitter <FaTwitter size={30} />
             </a>
           </li>
         </ul>
