@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const About = () => {
   return (
     <div name='about' className='w-full h-screen bg-[#0a192f] text-gray-300'>
@@ -22,6 +23,8 @@ const About = () => {
               for clients ranging from individuals and small-businesses all the
               way to large enterprise corporations. What would you do if you had
               a software expert available at your fingertips?</p>  
+                <p>Sky is limit.</p>
+                <p>Interesting Web3.0// NFT // Blockchain </p>
             </div>
           </div>
       </div>
