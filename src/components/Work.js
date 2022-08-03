@@ -27,7 +27,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Full Stack Development (Backend-Frontend- API, React, Node, Express, MongoDB, Mongoose, MongoDB Atlas, MongoDB Atlas - TailwindCSS)
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://github.com/oktayesenn/Project-3' target={'_blank'}>
@@ -45,7 +45,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Full Stack Web Application (Node.js, Express.js, MongoDB -Mongoose, Bootstrap CSS ) 
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://github.com/oktayesenn/Travel-Agency-Front-End/commit/a848cb2735ad7c8b189ca8eb59e6737ec0210273' target={'_blank'}>
@@ -63,7 +63,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                4 Different API + React JS Application
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://github.com/oktayesenn/project-2-react' target={'_blank'}>
